@@ -198,14 +198,18 @@
     margin-bottom: 10px;
 }
 
-	.card2 {
+.card{
+	background-color: #f0f0f0;
+}
+
+.card2 {	
 		position: relative;
 		width: 16rem;
 		height: auto;
 		background-color: #f0f0f0;
 		border-radius: 10px;
 		margin-top: 2vh;
-	}
+}
   
   .circle {
     position: absolute;
@@ -286,6 +290,11 @@
   }
 
   .espacio_titulo {
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.espacio-formulario{
+	margin-top: 30px;
+	margin-bottom: 45px;
 }
