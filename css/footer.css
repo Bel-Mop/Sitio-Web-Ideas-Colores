@@ -1,0 +1,29 @@
+.rounded-button {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: black; /* Cambia esto al color deseado */
+	border: none;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.rounded-button img {
+	width: 24px; /* Tamaño de la imagen */
+	height: 24px; /* Tamaño de la imagen */
+}
+
+footer{
+	background-color: #323D3D;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	height: px;
+}
+.letras {margin-bottom: 0;
+	margin-top: 0;
+	
+
+}

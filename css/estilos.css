@@ -1,0 +1,191 @@
+@font-face {
+    font-family: 'FANTASY MAGIST';
+    src: url('tipografias/FANTASY MAGIST.otf') format('truetype'); /* TTF */
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('tipografias/Montserrat-Regular.ttf') format('truetype'); /* TTF */
+}
+.tipo1 {margin-top: 15px;
+	margin-bottom: 5px;
+	font-size: 50px;
+	font-family: 'FANTASY MAGIST';
+}
+
+.tipo2 {
+	font-family: 'Montserrat';
+	font-size: 15px;
+}
+
+.tipo2-1{
+	font-size: 25px;
+	font-family: 'Montserrat';
+}
+
+.tipo3 {
+	font-family: 'FANTASY MAGIST';
+	font-size: 45px;
+	color: #DC8686
+	
+}
+.tipo4 {
+	margin-top: 0px;
+	margin-bottom: 60px;
+	padding-bottom: 0px;
+	font-size: 80px;
+	font-family: 'FANTASY MAGIST';
+	color: #DC8686;
+	line-height: 0.7;
+}
+.tipo7 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-size: 40px;
+	font-family: 'FANTASY MAGIST';
+	color: #DC8686;
+	line-height: 1.7;
+}
+
+.margen3 {
+	margin-right: 180px;
+	margin-left: 180px;
+
+}
+.svg-container {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente el contenido */
+  align-items: center; /* Centra verticalmente el contenido */
+ width: 100%;
+}
+
+.parrafos {display: flex;
+}
+.parrafo1 {margin-right: 100px;
+	margin-left: 100px;
+	
+}
+.parrafo2 
+	{margin-right: 100px;
+		margin-bottom: 300px;
+		
+	
+}
+.parrafo3 {margin-left: 300px;
+}
+.mision {margin-left: 390px;
+}
+.vision {margin-left: 180px;
+}
+.valores{margin-left: 200px;
+}
+.margens {margin-bottom: 20px;
+}
+.column1{
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+.column2{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+}
+.header{
+	text-align: center;
+}
+
+.columnas{
+	padding-left: 110px;
+	padding-right: 110px;
+}
+
+.size{
+	font-size:35px;
+}
+
+.size2{
+	font-size:48px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border-radius: 15px; /* Ajusta el valor según el redondeo que desees */
+    overflow: hidden; /* Para asegurarte de que la imagen no sobresalga de los bordes redondeados */
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: inherit; /* Hereda el redondeo de las esquinas del contenedor */
+}
+
+
+.legal {
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #323D3D;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 20px 0; /* Espaciado interno superior e inferior */
+}
+
+.legal2 {
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #323D3D;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 20px 0; /* Espaciado interno superior e inferior */
+}
+
+.column3{
+	text-align: justify;
+	padding-right: 10px;
+}
+.column4{
+	text-align: justify;
+	padding-left: 10px;
+}
+
+.imagen1{
+	position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 10px;
+    color: white;
+	padding: 0;
+}
+
+.imagen2{
+	position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+    color: white;
+	padding: 0;
+}
+
+.imagen3{
+	position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+    color: white;
+	padding: 0;
+}
+.espacio{
+	margin-bottom: 60px;
+}
+
+.espacio_titulo {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
