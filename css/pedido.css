@@ -169,7 +169,7 @@
 .linea hr {
 	border: none;
 	height: 8px; /* Grosor de la línea */
-	background-color: black; /* Color de la línea */
+	background-color: #ff0000; /* Color de la línea */
 	margin: 41px 0; /* Margen superior e inferior */
 	display: flex;
     align-items: center; /* Centra verticalmente los elementos hijos */
@@ -233,4 +233,32 @@
     align-items: center;
   }
 
-  
+  .espacio_titulo {
+	margin-top: 15px;
+    margin-bottom: 20px;
+  }
+    
+  .card {
+	border: 1px solid #f3f3f4;
+	border-radius: 15px;
+	overflow: hidden;
+	width: 200px; /* Ancho de la tarjeta */
+  }
+
+  .card img {
+	width: 100%; /* Para que la imagen ocupe todo el ancho de la tarjeta */
+	height: auto; /* Para mantener la proporción de la imagen */
+  }
+
+  .card .description {
+	padding: 15px;
+	text-align: center;
+  }
+
+  .espacio-tarjetas{
+	margin-left: 15px;
+  }
+
+  .separacion-tarjetas{
+	margin-bottom: 40px;
+  }

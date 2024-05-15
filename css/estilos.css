@@ -189,3 +189,24 @@
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+
+.estilo-pag{
+	color: #FFFFFF;
+	background-color: #323D3D;
+}
+
+.centrar-pag{
+	justify-content: center;
+}
+
+.margen-pag{
+	margin-bottom: 30px;
+}
+
+.margen-pag2{
+	margin-bottom: 50px;
+}
+.enlace{
+	border-bottom: 2px solid #000000; /* Línea debajo del enlace */
+	padding-bottom: 2px;
+}
